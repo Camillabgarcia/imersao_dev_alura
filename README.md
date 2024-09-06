@@ -1,5 +1,3 @@
-## ## **readme.md descontraído para o seu projeto**
-
 ###  **Olimpíadas: Seu guia para os atletas brasileiros!**
 
 **O que faz essa aplicação?**
