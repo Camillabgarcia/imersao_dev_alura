@@ -1,4 +1,4 @@
-###  **Olimpíadas: Seu guia para os atletas brasileiros!**
+###  **Olimpíadas: Seu guia para os atletas brasileiros! - Imersão Dev com Google Gemini**
 
 **O que faz essa aplicação?**
 
